@@ -262,13 +262,13 @@ Utilizar una bandeja junto con un papel de filtro me pareció la forma más acer
 | Identificador de práctica | `P01` |
 | Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | Pareja: Pablo Molano Sánchez |
+| Agrupamiento | Pareja: Pablo Molano Sánchez y Diana Casas Canchado|
 | Materiales o lotes relevantes | Bandeja de plástico, papel de filtro, papel absorbente, muestra de agua.|
-| Controles | [Resume o enlaza al apartado 9] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa]
+| Controles | Sin sistemas de señalización ni información del manejo de la muestra |
+| Resultado | Solución del problema del derrame de la muestra |
+| Interpretación | Resultados esperados utilizando los materiales y siguiendo el procedimiento adecuado|
+| Incidencias y acciones correctoras | Ningún tipo de incidencia o accidente más allá del simulado |
+| Ruta de residuos aplicada | Papel de filtro y absorbente desechados en la papelera
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
