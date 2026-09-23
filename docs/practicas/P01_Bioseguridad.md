@@ -179,47 +179,47 @@ No hemos trabajado con una muestra peligrosa, por lo que no se presenciaba ning�
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** En la foto podemos observar los EPI básicos del laboratorio, bata y guantes, que cumplen el rol de barreras físicas.
+- **Autoría y origen:** Propia
+- **Momento del procedimiento:** Primer paso antes de la práctica.
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
-- **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se observa la muestra en busca de roturas del recipiente y si está cerrado correctamente, además de identifica de qué se trata.
+- **Comprobación técnica asociada:** No se observa que la muestra esté mal cerrada.
+- **Momento del procedimiento:** Identificación y recepción de la muestra.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
-- **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
-- **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
+- **Pie de figura:** Solicitud de prueba, toma de muestra, identificación y registro, transporte a laboratorio, recepción y preparación, análisis de la muestra, validación de resultados, emisión del informe, validación de resultados, interpretación y acción médica, almacenamiento y eliminación.
+- **Origen y autorización:** Otra fuente; Internet
+- **Relación con el procedimiento:** Diría que la fase llevada a cabo es la de recepción y preparación y a continuación, después del derramamiento, el almacenamiento y eliminación.
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se observa el derrame y donde ha caído parte de la muestra, en este caso en la bandeja en el papel de filtro colocado por precaución.
+- **Medida crítica demostrada:** Podría decirse que se evita el riesgo de perder toda la muestra o de algún tipo de contaminación.
+- **Momento del procedimiento:** Justo después de la recepción de la muestra a la hora de su identificación abriendo el recipiente.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
-- **Ruta autorizada:** [Completa según el protocolo del centro]
-- **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
+- **Pie de foto:** Se limpia el resto de la muestra derramada y se desecha el papel de filtro y el absorbente en la papelera, ya que la muestra no supone ningún riesgo.
+- **Ruta autorizada:** Según el nivel de riesgo del accidente que haya ocurrido se ha actuado conforme a lo aprendido en el centro.
+- **Relación con la trazabilidad:** No disponemos de ningún registro.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| No se detectaron incidencias  | No hubo causas que llevasen al error de la práactica | No fue necesaria ninguna medida | No afectó nada |
+| No se detectaron incidencias  | No hubo causas que llevasen al error de la práctica | No fue necesaria ninguna medida | No afectó nada |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
