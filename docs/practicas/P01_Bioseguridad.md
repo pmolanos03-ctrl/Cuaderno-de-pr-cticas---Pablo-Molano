@@ -169,7 +169,7 @@ No existe una zona específica para la recepción de la muestra. Se trata de una
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-No hemos trabajado con una muestra peligrosa, por lo que no se presenciaba ningún riesgo de alto nivel. Aún así, no disponíamos de ningún tipo de señalización para la recepción de la muestra, pero hemos desarrollado la práctica con facilidad cumpliendo todos los pasos que podíamos realizar
+No hemos trabajado con una muestra peligrosa, por lo que no se presenciaba ningún riesgo de alto nivel. Aún así, no disponíamos de ningún tipo de señalización para la recepción de la muestra, pero hemos desarrollado la práctica con facilidad cumpliendo todos los pasos que podíamos realizar.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -219,19 +219,20 @@ No hemos trabajado con una muestra peligrosa, por lo que no se presenciaba ning�
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias  | No hubo causas que llevasen al error de la práactica | No fue necesaria ninguna medida | No afectó nada |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+Los resultados han sido los que se esperaban desde un principio. Se han llevado a cabo las medidas de seguridad necesarias, evaluando la zona y cumpliendo el procedimiento explicado en la práctica, además de utilizar los materiales adecuados para el trabajo, así como los EPI básicos en el laboratorio.
+En caso de carecer de cualquier instrumento u observación, se ha informado en esta práctica.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+Hemos logrado cumplir el objetivo de la práctica con éxito aún careciendo de informes, señalizaciones o la recepción adecuada de la muestra. Nos limitamos a utilizar las imágenes obtenidas como evidencia.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -239,29 +240,30 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+Utilizar una bandeja junto con un papel de filtro me pareció la forma más acertada de solucionar el derrame, ya que este dejaría de expandirse.
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Para la simulación utilizamos una bandeja la cual estaría cubierta de papel de filtro para evitar manchar el espacio de trabajo, además de papel absorbente para evitar que se expanda la mancha.
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   Podemos decir que fue recibida correctamente, ya que no presentaba ninguna apertura y estaba cerrada correctamente. También estaba etiquetada con la fecha, el lugar de recogida y el nombre de la propietaria. Se utilizó para la simulación de un derrame, pero no ha sido dañada ni contaminada. Además, ha sido almacenada correctamente para su posterior uso.
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   Básicamente lo que hemos echado en falta en la práctica de hoy, señalizaciones a la hora de evaluar los riesgos o indicaciones sobre la muestra obtenida.
+   
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Agrupamiento | Pareja: Pablo Molano Sánchez |
+| Materiales o lotes relevantes | Bandeja de plástico, papel de filtro, papel absorbente, muestra de agua.|
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
