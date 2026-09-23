@@ -119,14 +119,14 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
+- **Nombre y apellidos:** Pablo Molano Sánchez.
+- **Fecha real de realización:** 23/09/2026
+- **Grupo:** 2°LCB
+- **Pareja o equipo, si procede:** Pareja: Diana Casas Canchado y Pablo Molano Sánchez.
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
-- **Código o identificación de la muestra:** [Completa sin datos personales]
+- **Modalidad realmente realizada:** Material real con autorización.
+- **Tipo de muestra o simulante utilizado:**  Agua estancada.
+- **Código o identificación de la muestra:** Piscina municipal de Barcarrota.
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -134,25 +134,24 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+No existe una zona específica para la recepción de la muestra. Se trata de una mesa genérica donde prepararemos los materiales necesarios para llevar a cabo la prácica. Tampoco está señalizada.
 
 ### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| Posible riesgo biológico | Posible infección por microorganismos | Correcto uso de EPIs | Riesgo de corte por rotura de portaobjetos | Heridas por corte |
+| Correcto uso del microscopio | Riesgo de error en el procedimiento | Resultados erróneos | Revisión del protocolo y seguimiento del mismo |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección| Sí | Protección a la hora de trabajar |
+| Guantes | Sí | Medida general de protección |
+| Protección ocular o facial |  No  | No se causarán salpicaduras peligrosas |
+| Higiene de manos | Antes y después de la práctica | Higiene y desinfección para evitar contaminaciones durante la práctica |
+| Otra barrera o medida | No | No es necesario |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,8 +159,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | Se observa que no hay señalización ni zona de recepción de muestras | No | Sería necesaria una zona de señalización de los posibles riesgos |
+| Recepción e identificación trazables | Se observa que no existe documentación o trazabilidad de las muestras |  No  | En caso de trabajar con muestras peligrosas o desconocidas se necesitaría documentación o información de la muestra |
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
