@@ -123,7 +123,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Fecha real de realización:** 23/09/2026
 - **Grupo:** 2°LCB
 - **Pareja o equipo, si procede:** Pareja: Diana Casas Canchado y Pablo Molano Sánchez.
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Rol o tarea principal que realizaste:** Técnico de laboratorio solucionando el problema.
 - **Modalidad realmente realizada:** Material real con autorización.
 - **Tipo de muestra o simulante utilizado:**  Agua estancada.
 - **Código o identificación de la muestra:** Piscina municipal de Barcarrota.
@@ -161,15 +161,15 @@ No existe una zona específica para la recepción de la muestra. Se trata de una
 |---|---|---|---|
 | Zona y señalización analizadas | Se observa que no hay señalización ni zona de recepción de muestras | No | Sería necesaria una zona de señalización de los posibles riesgos |
 | Recepción e identificación trazables | Se observa que no existe documentación o trazabilidad de las muestras |  No  | En caso de trabajar con muestras peligrosas o desconocidas se necesitaría documentación o información de la muestra |
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | Se observa un derramamiento del agua, el cual se ha secado con papel absorbente | Sí | Se ha secado el derramamiento para evitar infección o contaminación en nuestro espacio de trabajo |
+| Residuos procesados y eliminados correctamente | Se observa papel de filtro y papel absorbente y se han desechado a la papelera | Sí | No suponía un alto riesgo de contaminación, por lo que se puede considerar un residuo de bajo riesgo |
+| Registro y comunicación final | Se observa  limpieza de la zona de trabajo y ni hay rastros de de la muestra | Sí | De esta forma se cumplen las normas de higiene y se evitan contaminaciones posibles. |
 
 ### 9.2 Resultado principal de la práctica
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-[Escribe aquí el resultado principal.]
+No hemos trabajado con una muestra peligrosa, por lo que no se presenciaba ningún riesgo de alto nivel. Aún así, no disponíamos de ningún tipo de señalización para la recepción de la muestra, pero hemos desarrollado la práctica con facilidad cumpliendo todos los pasos que podíamos realizar
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
