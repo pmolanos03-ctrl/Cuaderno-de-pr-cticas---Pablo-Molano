@@ -128,13 +128,13 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
+- **Nombre y apellidos:** Pablo Molano Sánchez
+- **Fecha real de realización:** 24/09/2026
+- **Grupo:** 2° LCB
+- **Pareja de trabajo, si procede:** Pareja; Diana Casas Canchado y Pablo Molano Sánchez.
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra ambiental autorizada / preparación comercial segura / vídeo microscópico / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Modalidad realmente realizada:** Muestra ambiental autorizada.
+- **Código o descripción de la muestra/material docente:** 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
