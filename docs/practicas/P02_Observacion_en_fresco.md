@@ -134,7 +134,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Pareja de trabajo, si procede:** Pareja; Diana Casas Canchado y Pablo Molano Sánchez.
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** Muestra ambiental autorizada.
-- **Código o descripción de la muestra/material docente:** 
+- **Código o descripción de la muestra/material docente:** Piscina natural de Barcarrota.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
