@@ -132,7 +132,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Fecha real de realización:** 24/09/2026
 - **Grupo:** 2° LCB
 - **Pareja de trabajo, si procede:** Pareja; Diana Casas Canchado y Pablo Molano Sánchez.
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Rol o tarea principal que realizaste:** Observación al microscopio.
 - **Modalidad realmente realizada:** Muestra ambiental autorizada.
 - **Código o descripción de la muestra/material docente:** Piscina natural de Barcarrota.
 
@@ -142,28 +142,27 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Autorización segura de la muestra. |
+| Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos en perfecto estado. |
+| Material y equipo efectivamente utilizados | Bata, guantes, microscopio, pipeta Pasteur, portaobjetos, cubreobjetos, papel de filtro. |
+| Aumento(s) utilizado(s) | 4x, 10x y 40x. |
+| Medidas de seguridad aplicadas | Utilización de EPI, papel de filtro colocado sobre el espacio de trabajo, revisión del microscopio antes del uso y correcto procedimiento del pipeteo.|
 
 ### 8.2 Hipótesis u observación inicial
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
-
+Al trabajar con una muestra de agua de río se espera la observación de algunos restos de fibras, cristales o impurezas aunque lo que realmente buscamos son microorganismos vivos para realizar una descripción en indicar su tipo en función de su morfología.
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Comprobación de calidad de la preparación
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | Se observan algunas burbujas al microscopio, las cuales puede haber sido originadas debido a la colocación del cubreobjetos. | Sí | Las burbujas no eran demasiado grandes, por lo que no dificultaban la observación al microscopio.|
+| Enfoque e iluminación adecuados | Se observa una iluminación adecuada en todos los objetivos del microscopio.| Sí | Gracias a una buena iluminación se podía observar la imagen con claridad. |
+| Campo observado de forma sistemática | SE ha observado el campo de forma completa, intentando visualizar objetos extraños.| Sí | De esta manera podremos encontrar los elementos que buscamos en la muestra. |
+| Movimiento diferenciado de corrientes o artefactos | No se observan movimientos diferenciados de corrientes o artefactos | Sí  | Las corrientes no tienen por qué influir en la observación en el microscopio. |
 
 ### 9.2 Registro de hallazgos
 
