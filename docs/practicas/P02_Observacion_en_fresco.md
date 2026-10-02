@@ -220,7 +220,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se han visualizado microorganismos debido al origen de recogida de la muestra | Origen de recogida de la muestra | Se propuso visualizar la muestra de todas formas e identificar las estructuras en ella | Sí, ya que no se pudo observa ningún microorganismo vivo. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -248,11 +248,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+   Las fotografías que mejor respaldas nuestro son las equivalentes a la observación microscópica, ya que sin concentración o concentrada el agua no muestra microorganismos.
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+   A lo mejor intentaría colocar el cubreobjetos en el porta utilizando la técnica de gota caída, para evitar que se creen corrientes en el agua depositada.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -262,13 +262,13 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | 02/10/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
 | Agrupamiento | Pareja: Pablo Molano Sánchez y Diana Casas Canchado |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
+| Modalidad y origen de la muestra o evidencia | La muestra era procedente de una piscina municipal. |
+| Materiales o lotes relevantes | Tubos de centrifugadora, microscopio, portaobjetos, cubreobjetos, centrifugadora y papel de filtro.|
+| Controles | Aparecieron algunas burbujas al colocar el cubreobjetos y se utilizó el microscopio correctamente, pasando por todos los objetivos e intentando identificar cualquier estructura. |
+| Resultado | No se ha identificado ningún microorganismo vivo, pero se han visualizado agrupaciones de cristales y restos de fibras vegetales. |
+| Interpretación | Se ha usado el microscopio correctamente y se ha verificado que el agua no contenía ningún microorganismo vivo. |
+| Incidencias y acciones correctoras | Recogida de muestra inadecuada para la práctica. Se ha continuado con el procedimiento de todas formas. |
+| Ruta de residuos aplicada | Los portaobjetos de han desechado en el cubo amarillo de objetos punzantes o cortantes y el agua se ha desechado en el fregadero, ya que no supone un alto riesgo. |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
