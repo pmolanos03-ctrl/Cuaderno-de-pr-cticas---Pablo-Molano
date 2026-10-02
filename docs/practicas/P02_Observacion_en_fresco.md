@@ -168,18 +168,15 @@ Al trabajar con una muestra de agua de río se espera la observación de algunos
 
 | Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
 |---|---|---|---|---|
-| [Hallazgo 1] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 2] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 3] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 4] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 5] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 6] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| Fibras vegetales de plantas o algas | Sin concentración y concentrada | Se observa una morfología alargada o fibrosa de pequeño tamaño  | No se observó movimiento | LLas fibras vegetales son bastante comunes en aguas estancadas.  |
+| Cristales  | Concentrada | Pequeño tamaño  | No se observó movimiento | Esos cristales pueden pertenecer a pequeños restos de minerales en el agua. |
+
 
 ### 9.3 Resultado principal
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-[Escribe aquí el resultado principal.]
+ Al ser agua de una piscina municipal, el agua está relativamente limpia. lo único que hemos podido observar con el microscopio han sido algunas fibras vegetales y algunas agrupaciones de cristales.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -229,13 +226,13 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+Para observar la muestra en el microscopio se han utilizado los diferentes objetivos del instrumento (4x, 10x y 40x). Se han observado únicamente algunas fibras vegetales y agrupaciones de cristales. Esto podría deberse a los tratamientos de cloro que se realizan en la piscina, los cuales eliminan las bacterias del agua para evitar impurezas y es por eso que no hemos sido capaces de encontrar ningún microorganismo vivo en la muestra, ya sea sin concentración o concentrada.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+No conseguimos alcanzar nuestro objetivo como tal, el cual consistía en la visualización de microorganismos vivos en la muestra de agua, pero conseguimos hacer un correcto uso del microscopio óptico e identificamos algo de detritus, fibras o cristales. La limitación principal ha sido la recogida de agua sometida a mantnimiento con cloro.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -243,11 +240,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+  La preparación del microscopio y enfocar de manera correcta utilizando el macrómetro en el primero objetivo y utilizando el micrómetro en los restantes.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   En nuestro caso sabíamos que eran corrientes de agua, ya que nuestra muestra no contaba con ningún microorganismo vivo ni presente.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
@@ -262,9 +259,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 02/10/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Pareja: Pablo Molano Sánchez y Diana Casas Canchado |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
 | Controles | [Resume o enlaza al apartado 9.1] |
