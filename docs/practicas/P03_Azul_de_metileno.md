@@ -142,12 +142,12 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
+- **Nombre y apellidos:** Pablo Molano Sánchez
+- **Fecha real de realización:** 01/10/2026
+- **Grupo:** 2°LCB
+- **Pareja de trabajo, si procede:** Pareja: Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal que realizaste:** Recogida de plasma  y trasvase
+- **Modalidad realmente realizada:** 
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
 - **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
 
