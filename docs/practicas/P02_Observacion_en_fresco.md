@@ -142,7 +142,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | Autorización segura de la muestra. |
+| Autorización o modalidad segura de la muestra | Autorización segura de la muestra|
 | Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos en perfecto estado. |
 | Material y equipo efectivamente utilizados | Bata, guantes, microscopio, pipeta Pasteur, portaobjetos, cubreobjetos, papel de filtro. |
 | Aumento(s) utilizado(s) | 4x, 10x y 40x. |
