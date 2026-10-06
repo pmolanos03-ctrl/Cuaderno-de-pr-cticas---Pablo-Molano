@@ -169,7 +169,7 @@ Al trabajar con una muestra de agua de río se espera la observación de algunos
 | Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
 |---|---|---|---|---|
 | Fibras vegetales de plantas o algas | Sin concentración y concentrada | Se observa una morfología alargada o fibrosa de pequeño tamaño  | No se observó movimiento | LLas fibras vegetales son bastante comunes en aguas estancadas.  |
-| Cristales  | Concentrada | Pequeño tamaño  | No se observó movimiento | Esos cristales pueden pertenecer a pequeños restos de minerales en el agua. |
+| Cristales  | Concentrada | Pequeño tamaño  | No se observó movimiento | Esos cristales pueden pertenecer a pequeños restos de minerales en el agua.|
 
 
 ### 9.3 Resultado principal
