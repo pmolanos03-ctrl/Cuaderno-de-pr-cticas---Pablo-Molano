@@ -175,11 +175,11 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ga utilizado una pipeta pasteur para usarlo. | Sí | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ga utilizado una pipeta pasteur para usarlo. | Sí | Se utilizan métodos de seguridad para evitar los posibles riesgos detallados en la FDS del azul de metileno. |
+| Preparación sin burbujas o artefactos limitantes | No se han formado burbujas al colocar el cubreobjetos | Sí | Las burbujas entorpecen la visión de cualquier estructura de la muestra al microscopio. |
+| Contraste suficiente para la observación |  En nuestro caso (sin microorganismos) no se ha podido comprobar el contraste, pero sabemos que las bacterias se verían resaltadas de color morado. | Sí | Gracuas a la tinción las bacterias se podrían identificar con mayor facilidad. |
+| Enfoque e iluminación adecuados | Se han utilizados todos los objetivos a la hora de usar el microscopio. | Sí | Al utilizar todos los objetivos podremos enfocar cin más facilidad, además de identificar estructuras  más facilmente. |
+| Gestión correcta de residuos y limpieza | Los portaobjetos y cubreobjetos se han desechado al contenedor de objetos punzantes o cortantes, y el papel de filtro a la papelera | Sí | La correcta gestión de residuos previene de cualquier tipo de riesgo. |
 
 ### 9.2 Registro de hallazgos
 
