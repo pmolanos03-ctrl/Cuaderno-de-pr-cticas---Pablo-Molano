@@ -157,17 +157,17 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| FDS y estado del reactivo | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra autorizada |
+| FDS y estado del reactivo | Azul de metileno en buen estado. Puede provocar efectos nocivos en caso de ingestión y provoca irritación ocular grave. |
+| EPI y medidas de seguridad aplicadas | Se ha utilizado bata y guantes. El reactivo se ha utilizado cuidadosamente. |
+| Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos en buen estado. |
+| Aumento(s) utilizado(s) | Se han utilizado los aumentos 4x, 10x, y 40x. |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+En esta práctica se espera ver los microorganismos (en caso de que haya) de una forma más clara debido a la tinción.
 
 ## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
