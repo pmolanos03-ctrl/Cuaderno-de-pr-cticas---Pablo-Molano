@@ -175,7 +175,7 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ga utilizado una pipeta pasteur para usarlo. | Sí | [Completa] |
 | Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
