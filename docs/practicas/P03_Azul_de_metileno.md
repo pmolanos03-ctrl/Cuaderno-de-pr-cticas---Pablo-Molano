@@ -147,9 +147,9 @@ Esta ruta es una adaptación docente, no una tinción vital validada por el PNT.
 - **Grupo:** 2°LCB
 - **Pareja de trabajo, si procede:** Pareja: Pablo Molano Sánchez y Diana Casas Canchado
 - **Rol o tarea principal que realizaste:** Recogida de plasma  y trasvase
-- **Modalidad realmente realizada:** 
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Modalidad realmente realizada:** Práctica simulada.
+- **Código o descripción de la muestra/material docente:** Muestra procedente de piscina municipal
+- **Reactivo utilizado:** Tinción con azul de metileno
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
