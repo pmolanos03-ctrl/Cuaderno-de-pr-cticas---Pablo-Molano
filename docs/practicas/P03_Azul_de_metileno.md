@@ -273,7 +273,9 @@ La tinción permitió observar con mayor facilidad determinadas estructuras de l
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
 
+Se alcanzó el objetivo de preparar, obsercar y comparar la tinción vital directa con azul de metileno, ya que el colorante permitió visualizar con mayor claridad las estructuras de la muestray comparar su aspecto con la de la preparación si teñir.
 
+Al centrifugarse, la preparación concentrada y teñida permitió observar una mayor cantidad de material en un espacio reducido, facilitando su visualización.
 
 ## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -281,19 +283,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** Al preparar o recibir la solución de azul de metileno al 0,5 % p/v, ¿qué comprobaste sobre la pesada, el volumen final de 100 mL, la etiqueta y la FDS? Si no la preparaste, indica quién proporcionó la solución y qué verificaste antes de usarla.
 
-   [Respuesta del alumnado]
+   La solución de azul de metileno nos la proporcionaron ya preparada, por lo que no realizamos la pesada del reactivo ni ajustamos el volumen final de 100mL. Antes de utilizarla, comprobamos la etiqueta para verificar el nombre del colorante y su concentración. Además, consultamos la FDS para conocer los riesgos asociados a la manipulación y las medidas de protección necesarias.
 
 2. **Interpretación:** Compara los campos teñidos directo y tras centrifugación (imágenes 3 y 5), si realizaste ambas modalidades. ¿Qué diferencias de contraste o morfología observaste? Contrástalas con el anexo sin convertir la semejanza en una identificación confirmada; no infieras movilidad ni viabilidad tras centrifugar.
 
-   [Respuesta del alumnado]
+   En la tinción directa se observóyna distribución mas dispersa del material , lo que permitió apreciar las estructuras presentes en la muestra. En cambio, en la preparación centrifugada, el material quedó más concentrado, facilitando la observación de una mayor cantidad de estructuras en un mismo campo microscópico. El azul de metileno aumentó el contraste y permitió distinguir mejor algunas características morfológicas.
 
 3. **Conclusiones:** Comparando la misma muestra en fresco en P02 con la preparación teñida directa de P03, ¿qué información aporta cada modalidad y cuál permitió describir mejor los rasgos observados? Si también centrifugaste, explica qué añadió esa preparación y qué limitación tuvo. Sustenta la conclusión con tus evidencias reales.
 
-   [Respuesta del alumnado]
+   En la P02, la observación en fresco permitió apreciar el aspecto natural de la muestra y la distribución de sus estructuras, mientras que en la P03, el azul de metileno aumentó el contraste y facilitó la descripción de los rasgos morfológicos observados. Por ello, la preparación teñida permitió distinguir mejor algunas características.
 
 4. **Aprendizaje y transferencia:** ¿En qué situación elegirías observar la muestra sin tinción y sin centrifugar, sin tinción y centrifugada, teñida y sin centrifugar, o teñida y centrifugada? Justifica cada elección según el objetivo de observación y las limitaciones de la muestra; en la preparación centrifugada no infieras movilidad ni viabilidad.
 
-   [Respuesta del alumnado]
+   Elegiría la preparación teñida y sin centrifugar, porque el azul de metileno aumenta el contraste y facilita la observación de las características morfológicas 
 
 ## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
