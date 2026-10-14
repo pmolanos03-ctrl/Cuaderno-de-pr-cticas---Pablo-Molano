@@ -191,11 +191,11 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 
 | Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital directa / preparación concentrada teñida | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado (solo modalidad sin centrifugación) | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
+| Contraste | Se observa un campo claro y las estructuras de un color verdoso o marrón | En la P03 se ven las estructuras resaltadas de color azulado o violeta | El contraste hace que la identificación de microorganismos sea más fácil y rápida. |
+| Morfología o detalles visibles | Se observan estructuras pero con mayor dificultad por falta de contraste con el medio.| Gracias a la tinción se pueden observar estructuras con mayor facilidad | La tinción nos permite identificar mejor las estructuras. |
+| Movimiento observado (solo modalidad sin centrifugación) | Se observa movilidad, pero producida por corrientes de agua| No se observa movilidad | En nuestra muestra no había ningún microorganismo presente. |
+| Facilidad de observación | La observación sin tinción es correcta| La observación con tinción es mucho más cómoda que la P02 | Las estructuras resaltan más debido al contraste. |
+| Limitaciones | La estructuras se pueden ser confundidas a la hora de identificarse | Podríamos habernos excedido en la cantidad de azul de metileno utilizado, pero no ha sido el caso. | Ninguna de las dos limitaciones posibles conllevan un gran problema a la hora de realizar la práctica. |
 
 ### Resultado principal
 
