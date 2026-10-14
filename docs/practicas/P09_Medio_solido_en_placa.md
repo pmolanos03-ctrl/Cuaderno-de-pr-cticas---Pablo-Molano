@@ -7,7 +7,7 @@ assessment_criteria: CE03.a–CE03.h
 transversal_learning_outcome: RA01
 page_type: practical-notebook
 student_completion: individual
-reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pdf"
+reference_document: "Copia de P3_Elaboración de medios de cultivo sólidos en placa.docx (protocolo docente adjunto)"
 ---
 
 # P09 — Elaboración de medio de cultivo sólido en placa
@@ -25,76 +25,82 @@ reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pd
 | Aprendizaje transversal | `RA01 — bioseguridad` |
 | Agrupamiento | Estaciones en grupos pequeños; cálculos y registro individual. |
 | Instrumentos vinculados | Prueba práctica y cuaderno o portfolio de prácticas. |
-| Modalidad prevista | Preparación, esterilización autorizada, dispensación aséptica y documentación de un medio sólido en placa. |
-| Condición operativa | Medios, agar cuando proceda, placas estériles, autoclave y protocolo de dispensación confirmados. |
+| Modalidad prevista | Práctica real en el laboratorio de Microbiología: preparación de 125 mL de Agar nutritivo en polvo, esterilización autorizada y dispensación aséptica. |
+| Condición operativa | Confirmar polvo y dosis de fabricante, agua destilada, placas estériles, autoclave y PNT local de preparación y vertido. |
 
 ## 2. Resumen
 
-En esta práctica prepararás o analizarás la elaboración de un medio sólido distribuido en placas. Calcularás la formulación y el volumen necesario, revisarás el componente gelificante, identificarás materiales y lotes y registrarás las condiciones de disolución, esterilización, enfriamiento y vertido previstas. Comprobarás la uniformidad, el espesor, la ausencia de burbujas o condensación limitante, el etiquetado y el control de esterilidad. Si trabajas con una simulación o con placas preparadas, describirás esa modalidad sin presentarla como ejecución propia. El resultado esperado es una placa trazable y utilizable para siembras posteriores, o una valoración clara de sus limitaciones, acompañada de imágenes autorizadas y una conclusión técnica.
+La práctica se realizará de forma real en el laboratorio de Microbiología. Prepararás 125 mL de Agar nutritivo en polvo desecado, volumen aproximado para seis placas según el protocolo docente adjunto. Calcularás la masa según la ficha técnica o etiqueta del fabricante, prepararás la mezcla con agua destilada y registrarás lotes y condiciones reales. La esterilización, el enfriamiento y el vertido seguirán el PNT local y las instrucciones del fabricante.
 
 ## 3. Finalidad y resultados esperados
 
-El medio sólido en placa proporciona nutrientes y una superficie estable para el trabajo posterior con material docente autorizado. Esta práctica se centra en seleccionar la fórmula indicada, calcular y preparar el medio, incorporar el agente gelificante cuando proceda, acondicionarlo para la esterilización, dispensarlo de forma aséptica y documentar su calidad y trazabilidad.
+El Agar nutritivo comercial en polvo contiene los componentes y correctores de pH establecidos por su fabricante, incluido el agente gelificante. La práctica se centra en preparar 125 mL del medio reconstituido, acondicionarlo para la esterilización autorizada, dispensarlo asépticamente y documentar su calidad y trazabilidad.
 
 Al finalizar deberás poder:
 
-- diferenciar un medio sólido de un medio líquido y explicar la función del agente gelificante;
-- escalar una fórmula a un volumen de trabajo concreto;
-- pesar, medir, disolver y homogeneizar los componentes de forma precisa;
+- identificar el Agar nutritivo en polvo y localizar su dosificación en la ficha técnica o etiqueta del fabricante;
+- calcular la masa de preparado necesaria para 125 mL sin desglosar ni modificar sus componentes;
+- medir el agua destilada según las instrucciones del fabricante, disolver y homogeneizar el preparado;
 - reconocer las condiciones que permiten un vertido seguro y una placa de calidad;
 - verificar etiquetado, control de esterilidad, conservación y trazabilidad; y
 - comunicar los resultados e incidencias de forma técnica.
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** balanza, material volumétrico, recipientes adecuados, medio deshidratado o reactivos, agar u otro agente gelificante cuando proceda, agua adecuada, sistema de calentamiento/agitación, recipientes autoclavables, placas estériles, material de dispensación, etiquetas y autoclave.
+**Materiales previstos:** Agar nutritivo comercial en polvo; agua destilada; vidrio de reloj; espátula; probeta; varilla de vidrio; matraz Erlenmeyer o botella autoclavable; tapón compatible; algodón y papel de aluminio si el recipiente lo requiere; seis placas de Petri estériles; etiquetas; y bolsa limpia para almacenarlas.
+
+**Equipos previstos:** balanza, placa calefactora con agitación, autoclave validado y cabina de flujo o área de vertido autorizada. Guantes térmicos para manipular recipientes calientes. No se añaden componentes por separado ni se emplea microondas salvo autorización expresa del procedimiento local.
 
 **Riesgos:** polvo químico, derrames, vidrio, superficies y medios calientes, vapor y presión del autoclave, cortes, contaminación de las placas y errores de identificación o conservación.
 
-**Medidas obligatorias:** usar el EPI indicado; consultar las FDS; minimizar la dispersión de polvo; controlar la temperatura conforme al [PNT](https://www.iso.org/standard/53610.html); comprobar la compatibilidad de recipientes y placas; etiquetar antes o según el momento establecido por el centro; mantener una técnica aséptica; y usar el autoclave o el área de dispensación solo bajo formación, autorización y supervisión previstas.
+**Medidas obligatorias:** usar el EPI indicado; consultar la FDS; minimizar el polvo; comprobar compatibilidad del recipiente; seguir el ciclo validado del autoclave y el PNT local; mantener técnica aséptica y usar el autoclave, la cabina o el área de vertido solo con formación, autorización y supervisión. La referencia técnica general es [ISO 11133](https://www.iso.org/standard/53610.html); no sustituye al PNT local.
 
-> **Aviso de seguridad.** La práctica es `CONDITIONAL`. El uso del autoclave y el vertido de medio caliente requieren equipo validado, [PNT](https://www.iso.org/standard/53610.html) vigente, EPI, formación y supervisión autorizada. Si no se cumplen estas condiciones, el alumnado podrá calcular, etiquetar, analizar registros, observar una demostración o evaluar placas docentes ya preparadas, declarando siempre la modalidad realizada.
+> **Aviso de seguridad.** La práctica es `CONDITIONAL`. El autoclave y el vertido de medio caliente requieren equipo validado, PNT local vigente, EPI, formación y supervisión autorizada. Si no se cumplen estas condiciones, el alumnado podrá calcular, analizar registros, observar una demostración o evaluar placas preparadas, declarando la modalidad. La referencia general de preparación y control de medios es [ISO 11133](https://www.iso.org/standard/53610.html).
 
 ## 5. Fundamento técnico
 
-Un medio de cultivo sólido incorpora un agente gelificante que forma una superficie estable. Esta superficie permite observar patrones de crecimiento y realizar técnicas posteriores cuando exista material docente autorizado. La formulación, la homogeneidad, la esterilidad y el estado de la placa condicionan la validez de cualquier uso posterior.
+El Agar nutritivo desecado se reconstituye con agua destilada según la dosificación y las instrucciones específicas del fabricante. Para 125 mL, calcula: **masa de polvo (g) = dosificación indicada (g/L) × 0,125 L**. No se fija aquí una masa universal porque la formulación comercial puede variar. El preparado incluye correctores de pH; no se mide ni se ajusta el pH ni se añade tampón.
 
-La calidad de una placa no depende únicamente de que el medio haya solidificado. Exige una fórmula y un cálculo correctos, disolución completa, esterilización validada, dispensación aséptica, volumen y espesor adecuados para el uso previsto, ausencia de burbujas o contaminación visible, etiquetado y conservación conforme al [PNT](https://www.iso.org/standard/53610.html). La presencia de agar u otro gelificante, y su concentración, determina la consistencia del medio; las cantidades concretas proceden siempre de la fórmula aprobada.
+La ficha técnica o la etiqueta remitida por el fabricante o impresa en el envase determina la dosificación del polvo y si los 125 mL se preparan añadiendo polvo al volumen de agua indicado o completando hasta volumen final. La esterilización, el enfriamiento, el vertido, el control de esterilidad y la conservación se hacen conforme al PNT local vigente y a las instrucciones del producto; la referencia general es [ISO 11133](https://www.iso.org/standard/53610.html).
 
-El documento adjunto aporta ejemplos históricos de formulación, vertido y conservación. Se utiliza como referencia para entender la lógica de la preparación. Las cantidades, temperaturas, ciclos de esterilización, condiciones de vertido y plazo de uso aplicables serán únicamente los establecidos por el centro, el fabricante y los protocolos vigentes.
+El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximado para seis placas y enumera materiales de pesada, preparación, esterilización y vertido. Sus recetas con componentes individuales no se aplican a este producto comercial. Tampoco se trasladan automáticamente su tiempo/ciclo de autoclave, método de calentamiento, temperatura de vertido ni conservación: se confirmarán en la ficha del fabricante y el PNT local. La norma [ISO 11133](https://www.iso.org/standard/53610.html) aporta el marco de preparación, almacenamiento y control de medios, pero no es el PNT local del centro.
 
 ## 6. Secuencia de trabajo y controles de calidad
 
 ### Secuencia general
 
-1. Identificar el medio, su fórmula, el volumen final, la cantidad de placas prevista y las FDS de los componentes.
-2. Calcular individualmente las cantidades necesarias y comprobarlas con el centro antes de pesar.
-3. Preparar el material limpio, verificar la balanza y pesar o medir los componentes, incluido el agente gelificante cuando corresponda.
-4. Añadir el agua y los componentes siguiendo el orden validado; disolver y homogeneizar usando el sistema autorizado.
-5. Verificar el aspecto del medio y los parámetros que determine el [PNT](https://www.iso.org/standard/53610.html) antes del acondicionamiento.
-6. Esterilizar únicamente mediante el procedimiento autorizado y con el equipo validado; registrar el ciclo o la evidencia alternativa.
-7. Dispensar en placas estériles solo en las condiciones y con la técnica aséptica autorizadas; dejar solidificar, identificar y conservar según el [PNT](https://www.iso.org/standard/53610.html).
-8. Registrar el aspecto final de las placas, sus controles, incidencias y ubicación de conservación.
+1. Consulta la ficha técnica o etiqueta del Agar nutritivo, confirma la dosis para 125 mL y reúne el material, seis placas estériles y los equipos autorizados.
+2. Calcula y pesa el polvo en vidrio de reloj; transfiérelo al recipiente que se usará para mezclar y esterilizar. Añade agua destilada previamente calentada.
+3. Homogeneiza y calienta la mezcla hasta ebullición para disolver el agar y eliminar grumos, evitando derrames.
+4. Autoclava con el ciclo validado. Si utilizas botella autoclavable, deja media vuelta de rosca sin apretar para evitar el cierre hermético y permitir el acceso de vapor y presión.
+5. Enfría según el PNT, vierte asépticamente en seis placas, deja solidificar y almacena la pila embolsada, boca abajo, a 4–7 °C.
 
 ### Procedimiento específico
 
-**[PNT](https://www.iso.org/standard/53610.html) de referencia:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html)
+**Referencia técnica general:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html). Esta norma no reemplaza el PNT local, que debe confirmarse antes de ejecutar el autoclave y el vertido.
 
-1. Confirma fórmula, volumen, placas, gelificante, fichas de seguridad, autoclave y área de vertido; usa EPI.
-2. Calcula cantidades y comprueba unidades con el centro antes de pesar; registra lotes y caducidades.
-3. Pesa, disuelve y homogeneiza componentes con equipo autorizado; evita polvo, salpicaduras y sobrecalentamiento.
-4. Esteriliza con ciclo validado y supervisado; registra equipo, ciclo y desviaciones.
-5. Dispensa en placas estériles con técnica aséptica autorizada; controla espesor, burbujas y condensación.
-6. Deja solidificar, etiqueta y conserva según el [PNT](https://www.iso.org/standard/53610.html); inspecciona uniformidad y contaminación visible.
-7. Realiza o documenta control de esterilidad y elimina residuos según la ruta indicada.
+1. Confirma Agar nutritivo en polvo, FDS, ficha técnica o etiqueta, dosis para 125 mL, PNT local, agua destilada y seis placas estériles.
+2. Calcula la masa con la dosificación del fabricante: g/L × 0,125 L. Anota la dosis consultada y comprueba las unidades.
+3. Reúne balanza, vidrio de reloj, espátula, probeta, varilla, recipiente autoclavable, placas estériles, etiquetas y equipos autorizados; prepara el EPI.
+4. Pesa el polvo en el vidrio de reloj evitando dispersarlo. Registra fabricante, lote, caducidad, masa pesada y fuente de la dosis.
+5. Tras la pesada, transfiere el polvo al recipiente que emplearás para mezclar y esterilizar. Mide el agua según fabricante y añádela previamente calentada para mejorar la solubilidad.
+6. Mezcla con varilla o agitación y calienta hasta ebullición para disolver correctamente el agar y hacer desaparecer los grumos. Evita derrames.
+7. El pH de los medios comerciales viene ajustado. No suele ser necesario medirlo ni corregirlo con soluciones tamponadoras, salvo que lo indique el fabricante.
+8. Acondiciona el recipiente según el fabricante. Si utilizas botella autoclavable, afloja media vuelta la rosca para evitar el cierre hermético y permitir el acceso de vapor y presión al medio.
+9. Autoclava con el ciclo validado para producto, volumen, recipiente y equipo, bajo supervisión. Registra autoclave, ciclo, indicador y desviaciones.
+10. Retira del autoclave con guantes térmicos y deja enfriar hasta la condición de vertido indicada por el fabricante (45–50 °C aproximadamente).
+11. Rotula cada placa con nombre del medio, fecha de elaboración y grupo o persona responsable. Escribe legible y pequeño en el borde de la superficie inferior; para recuentos, en el borde lateral.
+12. Tras la esterilización, dispensa el medio asépticamente en la zona autorizada: cabina de seguridad biológica o entorno de la llama. Evita tocar las superficies internas.
+13. Vierte unos 20–25 mL en cada placa para obtener, tras la solidificación, un grosor aproximado de 3–4 mm.
+14. Deja solidificar las seis placas. Embolsa la pila y almacénala boca abajo en refrigeración, entre 4 y 7 °C, según el procedimiento del centro.
 
 ### Controles de calidad
 
-- Fórmula, unidades y cálculo de escalado verificados.
-- Componentes, lotes y caducidades registrados cuando sean relevantes.
+- Identidad del Agar nutritivo, dosificación del fabricante, cálculo para 125 mL y unidades verificados.
+- Fabricante, lote, caducidad, masa pesada y fuente de instrucciones (ficha o etiqueta) registrados.
 - Medio homogéneo y correctamente gelificado, sin partículas o precipitados no esperados.
 - Placas uniformes, correctamente identificadas y sin burbujas, condensación limitante o contaminación visible.
-- Ciclo de esterilización o evidencia alternativa trazable, cuando proceda.
+- Ciclo de esterilización o evidencia alternativa trazable, cuando proceda; no se presupone el ciclo del protocolo histórico.
 - Control de esterilidad y conservación documentados de acuerdo con el procedimiento del centro.
 
 ---
@@ -108,106 +114,101 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 - **Grupo:** [Indica tu grupo]
 - **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación y vertido supervisados / preparación sin autoclave o vertido / demostración / análisis de placas docentes / otra; descríbela]
+- **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
 - **Nombre o código del medio preparado:** [Completa]
-- **Volumen final previsto y número de placas:** [Completa con unidades]
+- **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Fórmula, volumen y propósito del medio confirmados | [Completa] |
-| Agente gelificante y concentración indicados | [Completa / No aplicaba] |
-| FDS y riesgos de los componentes revisados | [Completa] |
-| Balanza, material volumétrico, placas y recipientes verificados | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Autoclave, área de dispensación o alternativa autorizada | [Completa] |
+| Instrumental | [Vidrio de reloj, espátula, probeta, varilla y material de dispensación realmente utilizado] |
+| Equipos | [Balanza, placa calefactora/agitación, autoclave y zona autorizada realmente utilizados; «No aplica» si procede] |
+| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados] |
 
-### 8.2 Hipótesis de calidad
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Antes de preparar el medio, indica qué aspecto, consistencia, uniformidad y trazabilidad esperas obtener si la fórmula y la dispensación son correctas. Explica qué error podría comprometer en mayor medida el uso posterior de las placas.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis.]
+### 9.1 Registro de observaciones y cálculos
 
-## 10. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 10.1 Hoja de cálculo de la fórmula
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula: g/L × 0,125 L = g de polvo. Anota fuente, operación y masa; registra por separado el agua indicada, sin inventar la dosis.] |
+| Configuración de equipos (si procede) | [Identifica balanza, calentamiento/agitación y autoclave; anota solo parámetros reales y el ciclo autorizado. No uses valores del protocolo adjunto sin confirmación local.] |
+| Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
 
-> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del centro antes de pesar.
-
-| Componente | Cantidad de referencia | Volumen de referencia | Volumen final solicitado | Cálculo | Cantidad pesada o medida | Lote/caducidad, si procede |
-|---|---:|---:|---:|---|---:|---|
-| [Componente 1] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Componente 2] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Agente gelificante, si procede] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### 10.2 Comprobación de calidad
-
-| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
-|---|---|---|---|
-| Cálculos y unidades verificados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Componentes y lotes correctamente registrados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Medio homogéneo y gelificación esperada | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Placas uniformes, sin defectos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Etiquetado y conservación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Esterilización o alternativa trazable | [Completa] | [Sí / No / No aplicaba] | [Completa] |
-| Control de esterilidad registrado | [Completa] | [Sí / No / Pendiente] | [Completa] |
-
-### Resultado principal
-
-Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y estado de control. Indica claramente qué partes realizaste, observaste como demostración o documentaste mediante evidencia docente.
-
-[Escribe aquí el resultado principal.]
-
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de placas ya preparadas, indícalo: no puede presentarse como ejecución propia.
 
-### Imagen 1 — Pesada o preparación de componentes
+### Imagen 1 — Pesada y transferencia del medio desecado
 
-![Pesada o preparación de componentes](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
+![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, agente gelificante, material volumétrico o medida de seguridad]
+- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
 - **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
 
-### Imagen 2 — Dispensación segura o demostración
+### Imagen 2 — Calentamiento del medio tras la mezcla
 
-![Dispensación segura o demostración](../assets/P09/dispensacion_segura_o_demostracion_02.jpg)
+![Calentamiento del medio tras la mezcla](../assets/P09/calentamiento_del_medio_tras_la_mezcla_02.jpg)
 
-- **Pie de foto:** [Qué se observa y en qué fase se tomó]
-- **Control de temperatura, asepsia o decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** [Recipiente con el medio mezclado durante el calentamiento hasta ebullición]
+- **Control o decisión técnica que demuestra:** [Disolución del agar y desaparición de grumos; indica el equipo utilizado]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
 
-### Imagen 3 — Placas finales etiquetadas o control de calidad
+### Imagen 3 — Recipiente dentro del autoclave
 
-![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_03.jpg)
+![Botella o matraz con el medio en el interior del autoclave](../assets/P09/recipiente_en_el_autoclave_03.jpg)
 
-- **Pie de foto:** [Aspecto, consistencia, etiqueta o control de las placas]
+- **Pie de foto:** [Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo]
+- **Dato de trazabilidad o seguridad que demuestra:** [Identificación del recipiente y acondicionamiento para esterilización; no fotografíes el equipo abierto durante el ciclo]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+
+### Imagen 4 — Dispensación aséptica en placas
+
+![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
+
+- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
+- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+
+### Imagen 5 — Placas finales etiquetadas o control de calidad
+
+![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
+
+- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo de seleccionar, preparar, dispensar y documentar un medio sólido en placa. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
+¿En qué medida el procedimiento y el medio obtenido permiten considerar alcanzado el objetivo de preparar 125 mL de Agar nutritivo en placa? Justifica tu valoración relacionándola con el resultado y señala cualquier limitación que condicione su uso.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con cálculos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -215,19 +216,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-2. **Interpretación:** ¿Qué controles permiten distinguir entre una placa aparentemente correcta y una placa que puede considerarse apta para su uso previsto? ¿Qué control permanece pendiente hasta completar el procedimiento del centro?
+2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
    [Respuesta del alumnado]
 
-3. **Conclusiones:** ¿Qué evidencia de tu cuaderno respalda mejor que las placas son uniformes y trazables? ¿Qué limitación evita afirmar que están listas para cualquier uso?
+3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
    [Respuesta del alumnado]
 
-4. **Aprendizaje y transferencia:** ¿Cómo aplicarás el control de temperatura, la técnica aséptica y el etiquetado de esta práctica antes de realizar una siembra o interpretar un crecimiento posterior?
+4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -235,13 +236,18 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula, volumen y número de placas | [Completa] |
-| Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 10.2] |
-| Resultado | [Resume o enlaza al apartado 10] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
-| Ruta de residuos y conservación | [Completa] |
+| Medio, fórmula, volumen y número de placas | [Agar nutritivo comercial; fabricante/dosis según etiqueta; 125 mL objetivo; número real de placas] |
+| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante, lote, caducidad y dosis consultada] |
+| Controles | [Resume o enlaza al apartado 9.1] |
+| Resultado | [Resume o enlaza al apartado 9] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
+
+## Referencias técnicas
+
+- ISO. [ISO 11133:2014 — Microbiología de la cadena alimentaria. Preparación, producción, almacenamiento y ensayos de rendimiento de los medios de cultivo](https://www.iso.org/standard/53610.html). Referencia técnica general; consultar la edición y modificaciones vigentes y aplicar el PNT local.
+- Protocolo docente adjunto: *P3 — Elaboración de medios de cultivo sólidos en placa*. Fuente de la escala de 125 mL (aprox. seis placas) y del inventario general de materiales. Sus recetas de componentes individuales no se aplican al medio comercial elegido.
