@@ -178,16 +178,14 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 | Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ga utilizado una pipeta pasteur para usarlo. | Sí | Se utilizan métodos de seguridad para evitar los posibles riesgos detallados en la FDS del azul de metileno. |
 | Preparación sin burbujas o artefactos limitantes | No se han formado burbujas al colocar el cubreobjetos | Sí | Las burbujas entorpecen la visión de cualquier estructura de la muestra al microscopio. |
 | Contraste suficiente para la observación |  En nuestro caso (sin microorganismos) no se ha podido comprobar el contraste, pero sabemos que las bacterias se verían resaltadas de color morado. | Sí | Gracuas a la tinción las bacterias se podrían identificar con mayor facilidad. |
-| Enfoque e iluminación adecuados | Se han utilizados todos los objetivos a la hora de usar el microscopio. | Sí | Al utilizar todos los objetivos podremos enfocar cin más facilidad, además de identificar estructuras  más facilmente. |
-| Gestión correcta de residuos y limpieza | Los portaobjetos y cubreobjetos se han desechado al contenedor de objetos punzantes o cortantes, y el papel de filtro a la papelera | Sí | La correcta gestión de residuos previene de cualquier tipo de riesgo. |
+| Enfoque e iluminación adecuados | Se han utilizados todos los objetivos a la hora de usar el microscopio. | Sí | Al utilizar todos los objetivos podremos enfocar cin más facilidad, además de identificar estructuras  más facilmente.|
+| Gestión correcta de residuos y limpieza | Los portaobjetos y cubreobjetos se han desechado al contenedor de objetos punzantes o cortantes, y el papel de filtro a la papelera | Sí | La correcta gestión de residuos previene de cualquier tipo de riesgo.|
 
 ### 9.2 Registro de hallazgos
 
 | Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
 |---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] |
+| Se observan restos de fibras vegetales y detritus  | Al aplicar la tinción se pueden observar de un color violeta o azulado | El color es lo que nos ha permitido identificarlo | No hemos sufrido ninguna limitavión y no nos ha surgido ninguna duda respecti a esta observación |
 
 ## 10. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -203,7 +201,8 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 
 Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
 
-[Escribe aquí el resultado principal.]
+El resultado procede de una ejecución propia .
+La tinción nos ha permitido encontrar las estructuras con mayor facilidad, así como una gran facilidad para identificarlas.
 
 ## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -262,19 +261,19 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No existen causas | Sin medidas correctoras | No |
 
 ## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la tinción usando los controles de calidad, las observaciones y la comparación con P02. Explica qué información se hizo más visible, qué posible artefacto o limitación introdujo el colorante y por qué la tinción no permite por sí sola una identificación definitiva.
 
-[Escribe aquí tu interpretación técnica.]
+La tinción permitió observar con mayor facilidad determinadas estructuras de la muestra, facilitando su visualización y diferenciación respecto a la preparación sin teñir. Sin embargo, el colorante pudo introducir artefactos, como una coloración desigual, precipitados o una alteración de la apariencia natural de las estructuras.
 
 ## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar la tinción vital directa con azul de metileno. Si realizaste la ruta centrifugada, describe por separado la preparación concentrada y teñida, y menciona sus límites. Sustenta tu conclusión con evidencias concretas.
 
-[Escribe aquí tu conclusión.]
+
 
 ## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
