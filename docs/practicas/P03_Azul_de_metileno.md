@@ -175,7 +175,7 @@ En esta práctica se espera ver los microorganismos (en caso de que haya) de una
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ga utilizado una pipeta pasteur para usarlo. | Sí | Se utilizan métodos de seguridad para evitar los posibles riesgos detallados en la FDS del azul de metileno. |
+| Reactivo correctamente identificado y apto para uso | El azul de metileno se encontraba contenido en un anaclin y se ha utilizado una pipeta pasteur para usarlo. | Sí | Se utilizan métodos de seguridad para evitar los posibles riesgos detallados en la FDS del azul de metileno. |
 | Preparación sin burbujas o artefactos limitantes | No se han formado burbujas al colocar el cubreobjetos | Sí | Las burbujas entorpecen la visión de cualquier estructura de la muestra al microscopio. |
 | Contraste suficiente para la observación |  En nuestro caso (sin microorganismos) no se ha podido comprobar el contraste, pero sabemos que las bacterias se verían resaltadas de color morado. | Sí | Gracuas a la tinción las bacterias se podrían identificar con mayor facilidad. |
 | Enfoque e iluminación adecuados | Se han utilizados todos los objetivos a la hora de usar el microscopio. | Sí | Al utilizar todos los objetivos podremos enfocar cin más facilidad, además de identificar estructuras  más facilmente.|
@@ -302,16 +302,16 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P03` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 01/10/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Reactivo y lote o referencia | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 10] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
-| Ruta de residuos aplicada | [Completa] |
+| Agrupamiento | Pareja: Diana Casas Canchado, Pablo Molano Sánchez |
+| Modalidad y origen de la muestra o evidencia | Práctica simulada |
+| Reactivo y lote o referencia | Se ha utilizado azul de metileno. |
+| Controles | Se ha utilizado una pipeta Pasteur para dispensar una gota de azul de metileno en la muestra de agua y se ha revisado la ficha de seguridad para evitar posibles riesgos producidos por el reactivo.|
+| Resultado | La tinción ayuda a identificar mejor las estructuras debido al contraste producido por la tinción. |
+| Interpretación | La tinción nos permite diferenciar mejor las estructuras debido al contraste que produce. |
+| Incidencias y acciones correctoras | No se ha producido ninguna incidencia. |
+| Ruta de residuos aplicada | Se ha desechado el portaobjetos en el contenedor amarillo y las pipetas y el papel se han desechado en la papelera. |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ## Referencia técnica
