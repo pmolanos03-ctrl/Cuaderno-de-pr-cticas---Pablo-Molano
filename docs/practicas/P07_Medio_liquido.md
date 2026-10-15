@@ -118,9 +118,9 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Fecha real de realización:** 15/10/2026
 - **Grupo:** 2° LCB
 - **Equipo de trabajo, si procede:** Grupo de mesa 2
-- **Rol o tarea principal que realizaste:** 
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Rol o tarea principal que realizaste:** Pipeteo del caldo preparado y esterlización en autoclave. 
+- **Modalidad realmente realizada:** Preparación supervisada con esterilización
+- **Medio preparado:** Caldo BHI Laboratorio conda S.A.
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -131,9 +131,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | 1. Papel de filtro/ 2.Tubos de ensayo/ 3. Gradilla/ 4. Pipeta de vidrio/ 5. Pera/ 6. Balanza portatil/ 7. Vaso de precipitados/ 8. Espátula/ 9. Agua destilada/ 10. Polvo de BHI/ 11. Varilla de vidrio/ 12. Papel de aluminio. |
+| Equipos | 1. Autoclave/ 2. Balanza portatil. |
+| Reactivos/materiales | 1. Agua destilada/ 2. Polvo BHI. |
 
 | Residuo previsto | Tipo |
 |---|---|
