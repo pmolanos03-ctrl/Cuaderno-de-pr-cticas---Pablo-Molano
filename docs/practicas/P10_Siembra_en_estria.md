@@ -106,12 +106,12 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 - **Nombre y apellidos:** Pablo Molano Sánchez
 - **Fecha de ejecución:** 04/11/2026
-- **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
-- **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
+- **Fecha de lectura, si procede:** No aplica.
+- **Grupo:** 2° LCB
+- **Pareja de trabajo, si procede:** Pareja: Pablo Molano Sánchez y Diana Casas Canchado
+- **Rol o tarea principal que realizaste:** Siembra en medio de cultivo y uso del mechero Bunsen.
+- **Modalidad realmente realizada:** Ejecución real supervisada en pareja.
+- **Código autorizado del cultivo de trabajo de P08 y de la placa:** No aplica
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
