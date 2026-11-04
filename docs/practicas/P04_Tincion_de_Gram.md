@@ -103,8 +103,8 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Pablo Molano Sánchez
+- **Fecha real de realización:** 
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
